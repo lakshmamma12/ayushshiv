@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Lakshmi has build the code sing different tools!</h2>
+<h2>We have generated the code and deployed into the production server using tomcat!</h2>
 </body>
 </html>
